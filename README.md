@@ -39,8 +39,4 @@ The analysis supports **data-driven decision-making**, **process optimization**,
 
 ---
 
-## How to Run
 
-1. Clone the repository
-```bash
-git clone <repository-url>
